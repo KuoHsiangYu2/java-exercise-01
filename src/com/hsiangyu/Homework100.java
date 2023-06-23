@@ -28,9 +28,6 @@ import java.util.stream.Collectors;
 public class Homework100 {
 
     private static List<Student> getListData() {
-        println("");
-        print("");
-        printf("");
         List<Student> resultList = new ArrayList<Student>();
         resultList.add(new Student("CatherineSimon", Gender.MALE, 10));
         resultList.add(new Student("Izabella", Gender.MALE, 20));
